@@ -1,2 +1,2 @@
-# Creacion_de_proyectos_de_JS
+# Creación de proyectos de JS
 Ejercicio 1 de la semana 3 de MissionNodeJS LaunchX
